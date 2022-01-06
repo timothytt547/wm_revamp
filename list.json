@@ -8,122 +8,250 @@
     "1": {
       "title": "S30Z ①",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/1HZHr0S/"
-      },
-      "last_updated": "1632261124"
+      }
     },
     "2": {
       "title": "S30Z ②",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/albeq4w/"
-      },
-      "last_updated": "1632261124"
+      }
     },
     "3": {
       "title": "S30Z ③",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/JYw0gFK/"
-      },
-      "last_updated": "1632261124"
+      }
     },
     "4": {
       "title": "Reina ①",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/LYDC26T/"
-      },
-      "last_updated": "1632261124"
+      }
     },
     "5": {
       "title": "Reina ②",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/Lciffax/"
-      },
-      "last_updated": "1632261124"
+      }
     },
     "6": {
       "title": "Reina ②",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/XPTOA4f/"
-      },
-      "last_updated": "1632261124"
+      }
     },
-        "7": {
+    "7": {
       "title": "Reina ④",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/RmVc36L/"
-      },
-      "last_updated": "1632261124"
+      }
     },
-            "8": {
+    "8": {
       "title": "Blackbird ①",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/2VoQ1Le/"
-      },
-      "last_updated": "1632261124"
+      }
     },
-                "9": {
+    "9": {
       "title": "Blackbird ②",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/uFKFHQW/"
-      },
-      "last_updated": "1632261124"
+      }
     },
-                    "10": {
+    "10": {
       "title": "Blackbird ③",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/VKS5rLB/"
-      },
-      "last_updated": "1632261124"
+      }
     },
-                        "11": {
+    "11": {
       "title": "Testarossa ①",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/DPXVMNa/"
-      },
-      "last_updated": "1632261124"
+      }
     },
-                            "12": {
+    "12": {
       "title": "Testarossa ②",
       "volume": "1",
+      "last_updated": "1632261124",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/CiWEdNG/"
-      },
-      "last_updated": "1632261124"
+      }
     },
-                                "13": {
+    "13": {
       "title": "Testarossa ③",
       "volume": "2",
+      "last_updated": "1637009524",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/17DHHuN/"
-      },
-      "last_updated": "1637009524"
+      }
     },
-                                    "14": {
+    "14": {
       "title": "Tuner From Hell ①",
       "volume": "2",
+      "last_updated": "1637009524",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/jDPwXQa/"
-      },
-      "last_updated": "1637009524"
+      }
     },
-                                        "15": {
+    "15": {
       "title": "Tuner From Hell ②",
       "volume": "2",
+      "last_updated": "1637009524",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/f5KOcTl/"
-      },
-      "last_updated": "1637009524"
+      }
+    },
+    "16": {
+      "title": "Tuner From Hell ③",
+      "volume": "2",
+      "last_updated": "1637055451",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/jWi5lqr"
+      }
+    },
+    "17": {
+      "title": " New Machine ①",
+      "volume": "2",
+      "last_updated": "1637055592",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/pSoRcm5"
+      }
+    },
+    "18": {
+      "title": "New Machine ②",
+      "volume": "2",
+      "last_updated": "1637055634",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/Y2ERgnh"
+      }
+    },
+    "19": {
+      "title": "New Machine ③",
+      "volume": "2",
+      "last_updated": "1637055661",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/DCxOyxi"
+      }
+    },
+    "20": {
+      "title": "Premonition ①",
+      "volume": "2",
+      "last_updated": "1637055679",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/fMNo6nK"
+      }
+    },
+    "21": {
+      "title": "Premonition ②",
+      "volume": "2",
+      "last_updated": "1637055719",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/eDLdIQc"
+      }
+    },
+    "22": {
+      "title": "Premonition ③",
+      "volume": "2",
+      "last_updated": "1637055750",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/5E9wLKh"
+      }
+    },
+    "23": {
+      "title": "Premonition ④",
+      "volume": "2",
+      "last_updated": "1637055767",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/Lcx00TW"
+      }
+    },
+    "24": {
+      "title": "Farewell ①",
+      "volume": "3",
+      "last_updated": "1641202997",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/q77GxuZ"
+      }
+    },
+    "25": {
+      "title": "Farewell ②",
+      "volume": "3",
+      "last_updated": "1641203030",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/W9r076C"
+      }
+    },
+    "26": {
+      "title": "Farewell ③",
+      "volume": "3",
+      "last_updated": "1641203047",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/XwYSPn6"
+      }
+    },
+    "27": {
+      "title": "Farewell ④",
+      "volume": "3",
+      "last_updated": "1641203064",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/jNajqBU"
+      }
+    },
+    "28": {
+      "title": "Mechanic ①",
+      "volume": "3",
+      "last_updated": "1641203096",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/FhDdJb0"
+      }
+    },
+    "29": {
+      "title": "Mechanic ②",
+      "volume": "3",
+      "last_updated": "1641203116",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/DvrLK7V"
+      }
+    },
+    "30": {
+      "title": "Mechanic ③",
+      "volume": "3",
+      "last_updated": "1641203130",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/ucB9Rzw"
+      }
+    },
+    "31": {
+      "title": "Mechanic ④",
+      "volume": "3",
+      "last_updated": "1641462342",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/KBUz7fd"
+      }
     }
   }
 }
