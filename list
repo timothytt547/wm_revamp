@@ -1,0 +1,129 @@
+{
+  "title": "Wangan Midnight Revamp Project",
+  "description": "Old chapters reedited and retranslated",
+  "artist": "Michiharu Kusunoki",
+  "author": "Michiharu Kusunoki",
+  "cover": "https://uploads.mangadex.org/covers/68669554-88ef-43ac-966b-e41d56682290/f04669a5-76a5-4c56-b02d-a02d9039cf3d.jpg",
+  "chapters": {
+    "1": {
+      "title": "S30Z ①",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/1HZHr0S/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "S30Z ②",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/albeq4w/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "S30Z ③",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/JYw0gFK/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Reina ①",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/LYDC26T/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "Reina ②",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/Lciffax/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "Reina ②",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/XPTOA4f/"
+      },
+      "last_updated": "1616368746"
+    },
+        "7": {
+      "title": "Reina ④",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/RmVc36L/"
+      },
+      "last_updated": "1616368746"
+    },
+            "8": {
+      "title": "Blackbird ①",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/2VoQ1Le/"
+      },
+      "last_updated": "1616368746"
+    },
+                "9": {
+      "title": "Blackbird ②",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/uFKFHQW/"
+      },
+      "last_updated": "1616368746"
+    },
+                    "10": {
+      "title": "Blackbird ③",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/VKS5rLB/"
+      },
+      "last_updated": "1616368746"
+    },
+                        "11": {
+      "title": "Testarossa ①",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/DPXVMNa/"
+      },
+      "last_updated": "1616368746"
+    },
+                            "12": {
+      "title": "Testarossa ②",
+      "volume": "1",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/CiWEdNG/"
+      },
+      "last_updated": "1616368746"
+    },
+                                "13": {
+      "title": "Testarossa ③",
+      "volume": "2",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/17DHHuN/"
+      },
+      "last_updated": "1616368746"
+    },
+                                    "14": {
+      "title": "Tuner From Hell ①",
+      "volume": "2",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/jDPwXQa/"
+      },
+      "last_updated": "1616368746"
+    },
+                                        "15": {
+      "title": "Tuner From Hell ②",
+      "volume": "2",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/f5KOcTl/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
