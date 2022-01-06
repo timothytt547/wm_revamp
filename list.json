@@ -252,6 +252,30 @@
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/KBUz7fd"
       }
+    },
+    "32": {
+      "title": "BNR32 ①",
+      "volume": "3",
+      "last_updated": "1641206250",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/ZmYcUpO"
+      }
+    },
+    "33": {
+      "title": "BNR32 ②",
+      "volume": "3",
+      "last_updated": "1641206274",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/iJ5bsG1"
+      }
+    },
+    "34": {
+      "title": "BNR32 ③",
+      "volume": "3",
+      "last_updated": "1641206306",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/jfdZpZ7"
+      }
     }
   }
 }
