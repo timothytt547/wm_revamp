@@ -1,6 +1,6 @@
 {
   "title": "Wangan Midnight Revamp Project (Beta)",
-  "description": "Beta reading only",
+  "description": "Beta reading",
   "artist": "Michiharu Kusunoki",
   "author": "Michiharu Kusunoki",
   "cover": "https://uploads.mangadex.org/covers/68669554-88ef-43ac-966b-e41d56682290/f04669a5-76a5-4c56-b02d-a02d9039cf3d.jpg",
@@ -451,6 +451,86 @@
       "last_updated": "1652182950",
       "groups": {
         "WM Revamp Project": "/proxy/api/imgur/chapter/mXQ5dAG"
+      }
+    },
+    "57": {
+      "title": "Yatabe ④",
+      "volume": "6",
+      "last_updated": "1666702427",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/WqHU9sS"
+      }
+    },
+    "58": {
+      "title": "Yatabe ⑤",
+      "volume": "6",
+      "last_updated": "1666702504",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/IJvIgnw"
+      }
+    },
+    "59": {
+      "title": "Yatabe ⑥",
+      "volume": "6",
+      "last_updated": "1666702554",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/gyGtHVF"
+      }
+    },
+    "60": {
+      "title": "Kitami Tune ①",
+      "volume": "6",
+      "last_updated": "1666702594",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/4qXc88T"
+      }
+    },
+    "61": {
+      "title": "Kitami Tune ②",
+      "volume": "6",
+      "last_updated": "1666702625",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/4V5xgGf"
+      }
+    },
+    "62": {
+      "title": "Shutokou: Yokohane Route ①",
+      "volume": "6",
+      "last_updated": "1666702658",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/DzRwp4k"
+      }
+    },
+    "63": {
+      "title": "Shutokou: Yokohane Route ②",
+      "volume": "6",
+      "last_updated": "1666702701",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/eQKouLJ"
+      }
+    },
+    "64": {
+      "title": "Shutokou: Yokohane Route ③",
+      "volume": "6",
+      "last_updated": "1666702737",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/1vbYEKq"
+      }
+    },
+    "65": {
+      "title": "Rotary ①",
+      "volume": "6",
+      "last_updated": "1666702780",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/KXIRcsr"
+      }
+    },
+    "66": {
+      "title": "Rotary ②",
+      "volume": "6",
+      "last_updated": "1666702808",
+      "groups": {
+        "WM Revamp Project": "/proxy/api/imgur/chapter/m8hNSCJ"
       }
     }
   }
